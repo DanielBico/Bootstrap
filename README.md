@@ -3,17 +3,17 @@ Aprendendo o framework Bootstrap
 
 
 
-Projeto iMove
+Projeto iMovi
 
 Projeto desenvolvido de um curso de bootstrap.<br>
-iMove é uma empresa com vasta experiencia no mercado da construção civil. 
+iMovi é uma empresa com vasta experiência no mercado da construção civil. 
 Venha nos fazer uma visita.
 
 ![site](https://user-images.githubusercontent.com/72531205/149583899-9ccfdf4f-8f87-4656-a8e2-12be7d6d3951.png)
 <br>
 <br>
 
-tecnolofias utilizadas:
+Tecnologias utilizadas:
 <ul>
 <li>HTML</li>
 <li>CSS</li>
